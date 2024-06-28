@@ -1,2 +1,4 @@
 # selan-demo
-this is my first repository
+This is my first Repository.
+Auther - Abhay Selan
+I am a mechanical engineer.
